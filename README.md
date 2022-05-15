@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 # Screenshots
 
-![alt text](https://github.com/ittechman101/phone-store/blob/main/screenshots/1.png)
+![alt text](https://github.com/ittechman101/phone-store/main/screenshots/1.png)
 
 
 ![alt text](https://github.com/ittechman101/phone-store/blob/main/screenshots/2.png)
